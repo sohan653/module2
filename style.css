@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    height: 10vh;
+    text-align: center;
+    width: 100%;
+    background-color:palegoldenrod ;
+    padding-top: 10px;
+}
+.header h1{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: purple;
+}
+.header small{
+    font-size: 15px;
+    color: red;
+    font-family: monospace;
+}
+/*  header end */
+.para_one{
+    background-color: salmon;
+    width: 50%;
+    height: 20vh;
+    padding: 10px;
+    text-align: justify;
+    margin: 13px;
+    border-radius: 15px;
+}
+.para_one h2{
+   
+    text-align: center;
+    padding: 5px;
+    color: rgb(10, 20, 39);
+    font-family: fantasy;
+}
+.para_one p{
+    font-size:13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(31, 43, 43);
+}
+.para_one address{
+    text-align: center;
+    padding-top: 10px;
+    color: darkmagenta;
+   
+}
+
+/* para one end */
+
+.para_two{
+    background-color: #d63031;
+    height: 20vh;
+    width: 50%;
+    padding: 10px;
+    text-align: justify;
+    margin: 13px;
+    border-radius: 15px;
+    margin-left: 28%;
+}
+.para_two h2{
+    text-align: center;
+    padding: 5px;
+    color: rgb(10, 20, 39);
+    font-family: fantasy;
+}
+.para_two p{
+    font-size:13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #00cecbaf;
+}
+.para_two address{
+    text-align: center;
+    padding-top: 10px;
+    color: darkmagenta;
+   
+}
+
+/* para two end */
+.para_three{
+    background-color: salmon;
+    width: 50%;
+    height: 20vh;
+    padding: 10px;
+    text-align: justify;
+    margin: 13px;
+    border-radius: 15px;
+    margin-left: 49%;
+}
+.para_three h2{
+   
+    text-align: center;
+    padding: 5px;
+    color: rgb(10, 20, 39);
+    font-family: fantasy;
+}
+.para_three p{
+    font-size:13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(31, 43, 43);
+}
+.para_three address{
+    text-align: center;
+    padding-top: 10px;
+    color: darkmagenta;
+   
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+}
+.footer .link_one{
+    display:inline-block;
+    text-decoration: none;
+    font-size: 24px;
+    background-color: #e84393;
+    width: 11%;
+    padding: 12px;
+    border-radius: 25px;
+}
+.footer .link_two{
+    display: inline-block;
+    text-decoration: none;
+    font-size:20px ;
+    background-color: #ffeaa7;
+    padding: 12px;
+    width: 11%;
+    border-radius: 25px;
+    margin-top: 20px;
+}
